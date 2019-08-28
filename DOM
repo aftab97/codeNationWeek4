@@ -1,0 +1,19 @@
+DOM - Document object model
+
+A representaion of a webpage that JS can use
+
+
+head - title
+
+body -h1 
+
+     -ul
+        -li
+
+
+
+location.href   //this will give the location 
+
+ctrl + L        //this clears the console
+
+getElementID
